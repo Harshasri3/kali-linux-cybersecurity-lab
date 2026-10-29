@@ -1,0 +1,13 @@
+# Virtual machine disks and exported appliances
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
